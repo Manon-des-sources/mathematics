@@ -10,10 +10,12 @@
 △ABC：∠A = 90°、∠B = β、∠C = α  
 △ABD：∠D = 90°、∠B = β、∠DAB = α  
 △ADC：∠D = 90°、∠CAD = β、∠C = α  
+  
 => 它们互为相似三角形：△ABC ∽ △ABD ∽ △ADC  
 => △ABC ∽ △ABD、对于∠B的两边：  
 => AB / BC = BD / AB  
 => AB² = BD * BC  --  ⑴  
+  
 => △ABC ∽ △ADC、对于∠C的两边：  
 => AC / BC = DC / AC  
 => AC² = DC * BC  --  ⑵  
