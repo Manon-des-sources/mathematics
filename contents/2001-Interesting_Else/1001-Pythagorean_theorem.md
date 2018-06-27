@@ -32,5 +32,3 @@
 右边正方形的面积 S2 = 4\*S△ + b² + a²  
 => S1 = S2  
 => a² + b² = c²  
-
-<img src="https://latex.codecogs.com/gif.latex?a^{2}&plus;\frac{a}{b}" title="a^{2}+\frac{a}{b}" /></a>  
