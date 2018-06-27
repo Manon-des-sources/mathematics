@@ -33,4 +33,4 @@
 => S1 = S2  
 => a² + b² = c²  
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=a^{2}&plus;\frac{a}{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^{2}&plus;\frac{a}{b}" title="a^{2}+\frac{a}{b}" /></a>  
+<img src="https://latex.codecogs.com/gif.latex?a^{2}&plus;\frac{a}{b}" title="a^{2}+\frac{a}{b}" /></a>  
