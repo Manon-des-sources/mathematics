@@ -32,5 +32,5 @@
 右边正方形的面积 S2 = 4\*S△ + b² + a²  
 => S1 = S2  
 => a² + b² = c²  
-＼[J\alpha(x) = \sum{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}＼]
-  
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a^{2}&plus;\frac{a}{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^{2}&plus;\frac{a}{b}" title="a^{2}+\frac{a}{b}" /></a>  
