@@ -26,7 +26,7 @@
 => S△ABC = ½(AD * BC)  
 
 => △ABC ∽ △ABD、∠C = ∠DAB、它们各自的两边：  
-=> AC / BC = AD / AB  --  ⑴  
+=> AC / BC = AD / AB  
 这也能得到：S△ABC = ½(AD * BC)  
 ```
 所以、直角三角形的面积 S = ½sh(h为高、s为底边边长)  
